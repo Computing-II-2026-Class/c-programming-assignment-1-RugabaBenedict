@@ -15,7 +15,7 @@ int main(void)
     printf("Enter cost per unit: ");
     scanf("%f", &cost_per_unit);
 
-    total_bill = (units_consumed + cost_per_unit);
+    total_bill = (units_consumed * cost_per_unit);
 
     printf("Total electricity bill:%.2f", total_bill);
 
