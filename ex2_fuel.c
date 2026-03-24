@@ -17,7 +17,7 @@ int main(void)
 
     fuel_effieciency = (distance_travelled/fuel_used);
 
-    printf("Fuel efficiency:%.2f", fuel_effiencieny);
+    printf("Fuel efficiency:%.2f", fuel_efficiency);
 
     
 
