@@ -7,7 +7,7 @@ int main(void)
 {
     float distance_travelled;
     float fuel_used;
-    float fuel efficiency;
+    float fuel_efficiency;
 
     printf("Enter distance covered: ");
     scanf("%f", &distance_travelled);
